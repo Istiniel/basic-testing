@@ -1,5 +1,4 @@
 // Uncomment the code below and write your tests
-import * as _ from 'lodash';
 import {
   InsufficientFundsError,
   SynchronizationFailedError,

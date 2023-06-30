@@ -50,6 +50,7 @@ describe('throttledGetDataFromApi', () => {
   beforeAll(() => {
     jest.useFakeTimers();
   });
+
   afterAll(() => {
     jest.useRealTimers();
   });
